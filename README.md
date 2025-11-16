@@ -1,1 +1,1 @@
-# blockchain-criptocurrency
+# blockchain|cryptocurrency
